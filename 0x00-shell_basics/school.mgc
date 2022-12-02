@@ -1,0 +1,2 @@
+#!/bin/bass
+school -C -m <school.mgc> school -m <school.mgc>
